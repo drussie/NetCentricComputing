@@ -1,3 +1,8 @@
+# Project 3 
+# Student: Marcos Ondruska
+# Student id: 268 5885
+
+
 import sys
 import random
 from socket import socket, AF_INET, SOCK_DGRAM
